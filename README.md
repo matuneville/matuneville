@@ -13,6 +13,7 @@ I'm a computer science student currently studying at the University of Buenos Ai
 
 - [Minesweeper](https://github.com/matuneville/minesweeper): Developed in C++
 - [Taxicabs locator](https://github.com/matuneville/taxicab-locator): Developed in Python
+- [Cardinal Direction Accuracy-tester](https://github.com/matuneville/cardinal-direction-accuracy-tester): Developed in Python
 - [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges): Developed in C++
 
 ## College Subjects and Assignaments
