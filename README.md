@@ -5,7 +5,7 @@ I'm a computer science student currently studying at the University of Buenos Ai
 ## Skills
 
 - Calculus, Math Analysis
-- Linear Algebra, Numerical Analysis and Number Theory, Discrete Maths
+- Linear Algebra, Discrete Maths
 - Probability and Statistics
 - Algorithms and Data Structures  
 
