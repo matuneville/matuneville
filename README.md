@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a computer science student.  
+I'm a Computer Science student.  
 Currently studying at the University of Buenos Aires.
 
 ## Skills
