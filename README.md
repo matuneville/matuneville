@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a computer science student currently studying at the University of Buenos Aires. Currently, my main area of interest is math algorithmics, and I'm always looking for ways to improve my skills and knowledge in it.  
+I'm a computer science student currently studying at the University of Buenos Aires.
 
 ## Skills
 
