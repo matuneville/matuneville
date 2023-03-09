@@ -16,7 +16,7 @@ Currently studying at the University of Buenos Aires.
 - [Minesweeper](https://github.com/matuneville/minesweeper): Developed in C++
 - [Taxicabs locator](https://github.com/matuneville/taxicab-locator): Developed in Python
 - [Cardinal Direction Accuracy-tester](https://github.com/matuneville/cardinal-direction-accuracy-tester): Developed in Python
-- [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges): Developed in C++
+- [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges)
 
 ## College Subjects and Assignaments
 - [Algo 1](https://github.com/matuneville/uba-algo1): in C++
