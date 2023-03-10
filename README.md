@@ -16,6 +16,7 @@ Currently studying at the University of Buenos Aires.
 - [Minesweeper](https://github.com/matuneville/minesweeper): Developed in C++
 - [Taxicabs locator](https://github.com/matuneville/taxicab-locator): Developed in Python
 - [Cardinal Direction Accuracy-tester](https://github.com/matuneville/cardinal-direction-accuracy-tester): Developed in Python
+- [Verano más caluroso de BsAs](https://github.com/matuneville/calor-de-verano-argentina): Jupyter Notebook
 - [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges)
 
 ## College Subjects and Assignaments
