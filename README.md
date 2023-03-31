@@ -1,16 +1,8 @@
 # Hi there 👋
 
-I'm a Computer Science student.  
-Currently studying at the University of Buenos Aires.
+Computer Science student at UBA
 
-## Skills
-
-- Calculus, Math Analysis
-- Linear Algebra, Discrete Maths
-- Probability and Statistics
-- Algorithms and Data Structures  
-
-## Projects
+## Some Projects
 
 - [RSA Cryptosystem](https://github.com/matuneville/RSA-algorithm): Developed in C++
 - [Minesweeper](https://github.com/matuneville/minesweeper): Developed in C++
