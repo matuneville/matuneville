@@ -2,7 +2,7 @@
 
 Computer Science student at UBA
 
-## Some Projects
+## Some Interesting Projects
 
 - [RSA Cryptosystem](https://github.com/matuneville/RSA-algorithm): Developed in C++
 - [Minesweeper](https://github.com/matuneville/minesweeper): Developed in C++
