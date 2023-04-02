@@ -11,7 +11,7 @@ Computer Science student at UBA
 
 ## College
 - [Algebra 1](https://github.com/matuneville/uba-algebra1): in Haskell
-- [Algoritmos y Estructuras de Datos 1](https://github.com/matuneville/uba-algo1): in C++
-- [Algoritmos y Estructuras de Datos 2](https://github.com/matuneville/uba-algo2): in C++
-- [Organizacion del Computador 1](https://github.com/matuneville/uba-orga1)
+- [Algo 1](https://github.com/matuneville/uba-algo1): in C++
+- [Algo 2](https://github.com/matuneville/uba-algo2): in C++
+- [Orga 1](https://github.com/matuneville/uba-orga1)
 
