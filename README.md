@@ -9,7 +9,7 @@ Computer Science student at UBA
 - [Cardinal Direction Accuracy-tester](https://github.com/matuneville/cardinal-direction-accuracy-tester): Developed in Python
 - [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges)
 
-## College
+## Universidad
 - [Algebra 1](https://github.com/matuneville/uba-algebra1): in Haskell
 - [Algo 1](https://github.com/matuneville/uba-algo1): in C++
 - [Algo 2](https://github.com/matuneville/uba-algo2): in C++
