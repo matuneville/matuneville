@@ -10,8 +10,8 @@ Computer Science student at UBA
 - [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges)
 
 ## Universidad
-- [Algebra 1](https://github.com/matuneville/uba-algebra1): en Haskell
-- [Algo 1](https://github.com/matuneville/uba-algo1): en C++
-- [Algo 2](https://github.com/matuneville/uba-algo2): en C++
-- [Orga 1](https://github.com/matuneville/uba-orga1)
+- [Algebra 1](https://github.com/matuneville/uba-algebra1), en Haskell
+- Algoritmos y Estructuras de Datos
+  - [Algo1](https://github.com/matuneville/uba-algo1) y [Algo 2](https://github.com/matuneville/uba-algo2), en C++
+- [Organización del Computador 1](https://github.com/matuneville/uba-orga1)
 
