@@ -7,7 +7,6 @@ Computer Science student at UBA
 - [RSA Cryptosystem](https://github.com/matuneville/RSA-algorithm): Developed in C++
 - [Minesweeper](https://github.com/matuneville/minesweeper): Developed in C++
 - [Cardinal Direction Accuracy-tester](https://github.com/matuneville/cardinal-direction-accuracy-tester): Developed in Python
-- [Leetcode Challenges](https://github.com/matuneville/LeetCode-challenges)
 
 ## Universidad
 - [Algebra 1](https://github.com/matuneville/uba-algebra1), en Haskell
